@@ -18,3 +18,11 @@ Before Crop
 
 After Crop
 ![](example/output.png)
+
+## field of perception calculation
+### Dependency
+None
+
+### run
+1. modify kernel size and stride in pof_calcualtion.py 
+2. `python pof_calcualtion.py`
